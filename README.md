@@ -1,4 +1,4 @@
-<h1>Portofolio<h1>
+<h1>Portofolio</h1>
 
 Portfolio to develop for my final year thesis.
 
