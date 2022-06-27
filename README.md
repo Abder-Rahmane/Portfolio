@@ -1,6 +1,6 @@
 <h1>Portofolio</h1>
 
-Portfolio to develop for my final year thesis.
+Portfolio develop for my final year thesis.
 
 Technology used : HTML/ CSS /JAVASCRIPT/ BOOTSTRAP / ANIMATE.CSS
 
